@@ -172,8 +172,11 @@ NAVBAR
   background: var(--clr-grey-10);
   z-index: 2;
   /* hide navbar */
+  transform: translateX(-100%);
+  transition: var(--transition);
 }
 .showNav {
+  transform: translate(0);
 }
 .navbar-header {
   text-align: right;
