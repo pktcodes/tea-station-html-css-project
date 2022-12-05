@@ -14,7 +14,7 @@
   - **Contact** will have the *Address*, *Email*, *Telephone* information and a form to fill in the details along with **`Submit Here`** which on click sends an email to the company.  
   - **Footer** has links to social media operated by company and copyright information. 
 - **NavButton**, **Navbar**, **Header**, **Footer** are implemented similarly across all pages.
-- Icons are implemented using by **Font Awesome**, form functionality is handled by **Formspree** and fonts using **Google Fonts**. 
+- Icons are implemented using by **Font Awesome**, form functionality is handled by **Formspree**, images from **Pexels** and fonts using **Google Fonts**. 
 - To run the project locally, clone the repo, and open the `index.html` in the browser.
 
 #### Languages
